@@ -91,14 +91,7 @@ open_to       : ["Collaboration", "Automation Consulting", "OSS Contributions"]
 
 ## 📊 GitHub Universe
 
-<div align="center">
 
-<a href="https://github.com/Abenezer-Mengistu">
-  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=Abenezer-Mengistu&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=050d1a&title_color=38bdf8&icon_color=7dd3fc&text_color=cbd5e1&border_color=1e3a5f&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Stats"/>
-  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Mengistu&layout=compact&langs_count=8&theme=transparent&bg_color=050d1a&title_color=38bdf8&text_color=cbd5e1&border_color=1e3a5f&border_radius=12&hide_border=false&hide=html,css" alt="Top Languages"/>
-</a>
-
-</div>
 
 <div align="center">
 
