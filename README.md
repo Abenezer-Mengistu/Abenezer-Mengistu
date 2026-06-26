@@ -95,7 +95,7 @@ class Abenezer:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abcreed&show_icons=true&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&border_color=1e293b&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abenezer-Mengistu&show_icons=true&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&border_color=1e293b&hide_border=false&count_private=true" alt="GitHub Stats"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Mengistu&layout=compact&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&text_color=e2e8f0&border_color=1e293b&hide_border=false&langs_count=8" alt="Top Languages"/>
 
@@ -113,7 +113,7 @@ class Abenezer:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abcreed&bg_color=0a0e1a&color=00d4ff&line=a78bfa&point=ffffff&area=true&area_color=1a0533&hide_border=false&border_color=1e293b&title_color=00d4ff" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abenezer-Mengistu&bg_color=0a0e1a&color=00d4ff&line=a78bfa&point=ffffff&area=true&area_color=1a0533&hide_border=false&border_color=1e293b&title_color=00d4ff" alt="Activity Graph" width="100%"/>
 
 </div>
 
