@@ -1,140 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:1a0533,100:0a0e1a&height=200&section=header&text=Abenezer&fontColor=00d4ff&fontSize=72&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer&descAlignY=75&descSize=18&descFontColor=a78bfa&stroke=00d4ff&strokeWidth=2&animation=twinkling" alt="Header" width="100%" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050d1a,30:0a1628,60:0d1f3c,100:050d1a&height=220&section=header&text=Abenezer%20Mengistu&fontColor=38bdf8&fontSize=62&fontAlignY=52&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer%20%7C%20Addis%20Ababa%2C%20Ethiopia&descAlignY=74&descSize=15&descFontColor=7dd3fc&stroke=38bdf8&strokeWidth=1.5&animation=twinkling" width="100%" alt="Header"/>
 
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   $ whoami                                                       ║
-║   > Abenezer — Full-Stack Dev & Automation Engineer              ║
-║                                                                  ║
-║   $ ls skills/                                                   ║
-║   > Django  React  Node.js  TypeScript  Python  Playwright       ║
-║   > Docker  Nginx  PostgreSQL  REST APIs  Web Scraping           ║
-║                                                                  ║
-║   $ cat current_status.txt                                       ║
-║   > Building large-scale automation systems @ Sheba-X AI        ║
-║   > Engineering government platforms @ Ministry of Planning, ET ║
-║                                                                  ║
-║   $ _                                                            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Tech Arsenal
-
-</div>
-
-<div align="center">
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=00d4ff)
-![Django](https://img.shields.io/badge/Django-0a0e1a?style=for-the-badge&logo=django&logoColor=00d4ff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=for-the-badge&logo=node.js&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=00d4ff)
-![PHP](https://img.shields.io/badge/PHP-0a0e1a?style=for-the-badge&logo=php&logoColor=00d4ff)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e1a?style=for-the-badge&logo=javascript&logoColor=a78bfa)
-![HTML5](https://img.shields.io/badge/HTML5-0a0e1a?style=for-the-badge&logo=html5&logoColor=a78bfa)
-![CSS3](https://img.shields.io/badge/CSS3-0a0e1a?style=for-the-badge&logo=css3&logoColor=a78bfa)
-![jQuery](https://img.shields.io/badge/jQuery-0a0e1a?style=for-the-badge&logo=jquery&logoColor=a78bfa)
-
-**DevOps & Data**
-
-![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=for-the-badge&logo=docker&logoColor=22d3ee)
-![Nginx](https://img.shields.io/badge/Nginx-0a0e1a?style=for-the-badge&logo=nginx&logoColor=22d3ee)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
-![Playwright](https://img.shields.io/badge/Playwright-0a0e1a?style=for-the-badge&logo=playwright&logoColor=22d3ee)
-![Odoo](https://img.shields.io/badge/Odoo-0a0e1a?style=for-the-badge&logo=odoo&logoColor=22d3ee)
-
-</div>
-
----
-
-## 🚀 What I Build
-
-```python
-class Abenezer:
-    def __init__(self):
-        self.roles = [
-            "Full-Stack Developer @ Ministry of Planning & Development, Ethiopia",
-            "Web Scraping & Automation Engineer @ Sheba-X AI & Automation"
-        ]
-        self.stack = {
-            "languages"  : ["Python", "TypeScript", "JavaScript", "PHP"],
-            "frameworks" : ["Django", "React", "Node.js"],
-            "infra"      : ["Docker", "Nginx", "PostgreSQL"],
-            "automation" : ["Playwright", "Scrapy", "Puppeteer"],
-        }
-        self.currently_building = [
-            "🏗️  Large-scale French real estate scraping pipeline (10k+ domains)",
-            "🅿️  Parking marketplace aggregator — StubHub · SpotHero · ParkWhiz",
-            "🏛️  Government digital platforms for Ethiopia",
-        ]
-        self.superpower = "Turning complex, messy real-world data into clean systems"
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abenezer-Mengistu&show_icons=true&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&border_color=1e293b&hide_border=false&count_private=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Mengistu&layout=compact&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&text_color=e2e8f0&border_color=1e293b&hide_border=false&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abenezer-Mengistu&theme=tokyonight&background=0a0e1a&sideNums=00d4ff&currStreakNum=a78bfa&fire=ff6b6b&ring=00d4ff&sideLabels=94a3b8&currStreakLabel=94a3b8&dates=64748b&border=1e293b" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌍 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abenezer-Mengistu&bg_color=0a0e1a&color=00d4ff&line=a78bfa&point=ffffff&area=true&area_color=1a0533&hide_border=false&border_color=1e293b&title_color=00d4ff" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-*Open to collaborations in automation, full-stack engineering, and anything that involves solving hard data problems.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Abcreed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-0a0e1a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:your@email.com)
+<!-- TYPING SVG -->
+<a href="https://github.com/Abenezer-Mengistu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔭+Building+systems+that+scale+to+millions;⚡+Django+%7C+React+%7C+Node.js+%7C+TypeScript;🕷️+Web+Scraping+%26+Automation+at+Scale;🏗️+Full-Stack+Engineer+%40+Gov+of+Ethiopia;🤖+AI+%26+Automation+%40+Sheba-X;🌍+Crafting+Africa's+Digital+Future" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abcreed&style=for-the-badge&color=0a0e1a&label=PROFILE+VIEWS&abbreviated=true)
+<!-- SOCIAL BADGES -->
+[![GitHub followers](https://img.shields.io/github/followers/Abenezer-Mengistu?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22)](https://github.com/Abenezer-Mengistu)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abenezer-Mengistu&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)](https://github.com/Abenezer-Mengistu)
+
+</div>
+
+---
+
+<!-- ABOUT ME SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1a,100:0a1628&height=3&section=header" width="100%"/>
+
+## 🧬 `whoami`
+
+```yaml
+# ═══════════════════════════════════════════════════════════
+#   ABENEZER MENGISTU  ·  Full-Stack & Automation Engineer
+# ═══════════════════════════════════════════════════════════
+
+identity:
+  name        : "Abenezer Mengistu"
+  alias       : "Abcreed"
+  based_in    : "Addis Ababa, Ethiopia 🇪🇹"
+  timezone    : "EAT (UTC+3)"
+
+current_roles:
+  - title     : "Full-Stack Developer"
+    org        : "Ministry of Planning & Development of Ethiopia"
+    type       : "Government · Enterprise Systems"
+  - title     : "Web Scraping & Automation Engineer"
+    org        : "Sheba-X AI & Automation"
+    type       : "AI-Powered · Large Scale"
+
+now_building:
+  - "🏗️  French real estate scraper  →  10,000+ domains, distributed pipeline"
+  - "🅿️  Parking marketplace aggregator  →  StubHub · SpotHero · ParkWhiz"
+  - "🏛️  Government digital infrastructure platforms"
+
+superpower    : "Turning messy real-world data into clean, scalable systems"
+open_to       : ["Collaboration", "Automation Consulting", "OSS Contributions"]
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### ⚙️ Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,php&theme=dark&perline=8" alt="Languages"/>
+</p>
+
+### 🧩 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs,jquery&theme=dark&perline=8" alt="Frameworks"/>
+</p>
+
+### 🗄️ Infrastructure & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,postgres,linux,git,github,vscode&theme=dark&perline=8" alt="DevOps"/>
+</p>
+
+### 🤖 Automation & Scraping
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-FF6600?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Universe
+
+<div align="center">
+
+<a href="https://github.com/Abenezer-Mengistu">
+  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=Abenezer-Mengistu&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=050d1a&title_color=38bdf8&icon_color=7dd3fc&text_color=cbd5e1&border_color=1e3a5f&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Stats"/>
+  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Mengistu&layout=compact&langs_count=8&theme=transparent&bg_color=050d1a&title_color=38bdf8&text_color=cbd5e1&border_color=1e3a5f&border_radius=12&hide_border=false&hide=html,css" alt="Top Languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Abenezer-Mengistu">
+  <img src="https://streak-stats.demolab.com?user=Abenezer-Mengistu&theme=transparent&background=050d1a&border=1e3a5f&ring=38bdf8&fire=f97316&currStreakNum=38bdf8&sideNums=7dd3fc&currStreakLabel=7dd3fc&sideLabels=94a3b8&dates=475569&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="100%"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/Abenezer-Mengistu">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abenezer-Mengistu&theme=algolia&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Trophies" width="100%"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 My Contributions, Devoured
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abenezer-Mengistu/Abenezer-Mengistu/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abenezer-Mengistu/Abenezer-Mengistu/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Abenezer-Mengistu/Abenezer-Mengistu/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Abenezer-Mengistu">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abenezer-Mengistu&bg_color=050d1a&color=38bdf8&line=7dd3fc&point=f97316&area=true&area_color=0a1f3f&hide_border=false&border_color=1e3a5f&title_color=38bdf8&radius=12" width="100%" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/Abenezer-Mengistu">
+  <img src="https://img.shields.io/badge/GitHub-050d1a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abenezer-mengistu">
+  <img src="https://img.shields.io/badge/LinkedIn-050d1a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/>
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-050d1a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20not%20just%20instructions%20for%20a%20machine%20%E2%80%94%20it%20is%20a%20craft%2C%20a%20language%2C%20and%20a%20statement%20of%20intent.&author=Abenezer%20Mengistu" alt="Quote" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,100:1a0533&height=100&section=footer&reversal=false" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0a1628,100:0d1f3c&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
