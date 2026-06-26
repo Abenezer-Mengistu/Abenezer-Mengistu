@@ -97,13 +97,13 @@ class Abenezer:
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abcreed&show_icons=true&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&border_color=1e293b&hide_border=false&count_private=true" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abcreed&layout=compact&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&text_color=e2e8f0&border_color=1e293b&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenezer-Mengistu&layout=compact&theme=tokyonight&bg_color=0a0e1a&title_color=00d4ff&text_color=e2e8f0&border_color=1e293b&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abcreed&theme=tokyonight&background=0a0e1a&sideNums=00d4ff&currStreakNum=a78bfa&fire=ff6b6b&ring=00d4ff&sideLabels=94a3b8&currStreakLabel=94a3b8&dates=64748b&border=1e293b" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abenezer-Mengistu&theme=tokyonight&background=0a0e1a&sideNums=00d4ff&currStreakNum=a78bfa&fire=ff6b6b&ring=00d4ff&sideLabels=94a3b8&currStreakLabel=94a3b8&dates=64748b&border=1e293b" alt="GitHub Streak" />
 
 </div>
 
