@@ -3,10 +3,6 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050d1a,30:0a1628,60:0d1f3c,100:050d1a&height=220&section=header&text=Abenezer%20Mengistu&fontColor=38bdf8&fontSize=62&fontAlignY=52&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer%20%7C%20Addis%20Ababa%2C%20Ethiopia&descAlignY=74&descSize=15&descFontColor=7dd3fc&stroke=38bdf8&strokeWidth=1.5&animation=twinkling" width="100%" alt="Header"/>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/Abenezer-Mengistu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔭+Building+systems+that+scale+to+millions;⚡+Django+%7C+React+%7C+Node.js+%7C+TypeScript;🕷️+Web+Scraping+%26+Automation+at+Scale;🏗️+Full-Stack+Engineer+%40+Gov+of+Ethiopia;🤖+AI+%26+Automation+%40+Sheba-X;🌍+Crafting+Africa's+Digital+Future" alt="Typing SVG"/>
-</a>
 
 <br/>
 
