@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050d1a,30:0a1628,60:0d1f3c,100:050d1a&height=220&section=header&text=Abenezer%20Mengistu&fontColor=38bdf8&fontSize=62&fontAlignY=52&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Automation%20Engineer%20%7C%20Addis%20Ababa%2C%20Ethiopia&descAlignY=74&descSize=15&descFontColor=7dd3fc&stroke=38bdf8&strokeWidth=1.5&animation=twinkling" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050d1a,30:0a1628,60:0d1f3c,100:050d1a&height=220&section=header&text=Abenezer%20Mengistu&fontColor=38bdf8&fontSize=62&fontAlignY=52&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Automation%20%7C%20Addis%20Ababa%2C%20Ethiopia&descAlignY=74&descSize=14&descFontColor=7dd3fc&stroke=38bdf8&strokeWidth=1.5&animation=twinkling" width="100%" alt="Header"/>
 
 
 <br/>
@@ -21,7 +21,7 @@
 
 ```yaml
 # ═══════════════════════════════════════════════════════════
-#   ABENEZER MENGISTU  ·  Full-Stack & Automation Engineer
+#   ABENEZER MENGISTU  ·  Full-Stack · Mobile · Automation
 # ═══════════════════════════════════════════════════════════
 
 identity:
@@ -29,6 +29,11 @@ identity:
   alias       : "Abcreed"
   based_in    : "Addis Ababa, Ethiopia 🇪🇹"
   timezone    : "EAT (UTC+3)"
+
+expertise:
+  - "Full-stack web platforms (enterprise & government)"
+  - "Mobile app development (iOS & Android via Expo / React Native)"
+  - "Large-scale web scraping & AI-powered automation"
 
 current_roles:
   - title     : "Full-Stack Developer"
@@ -39,12 +44,13 @@ current_roles:
     type       : "AI-Powered · Large Scale"
 
 now_building:
+  - "📱  Mobile apps with Expo & React Native  →  cross-platform UI, auth, real-time flows"
   - "🏗️  French real estate scraper  →  10,000+ domains, distributed pipeline"
   - "🅿️  Parking marketplace aggregator  →  StubHub · SpotHero · ParkWhiz"
   - "🏛️  Government digital infrastructure platforms"
 
-superpower    : "Turning messy real-world data into clean, scalable systems"
-open_to       : ["Collaboration", "Automation Consulting", "OSS Contributions"]
+superpower    : "Turning messy real-world data into clean, scalable web & mobile systems"
+open_to       : ["Collaboration", "Mobile & Full-Stack Projects", "Automation Consulting", "OSS Contributions"]
 ```
 
 ---
@@ -63,6 +69,16 @@ open_to       : ["Collaboration", "Automation Consulting", "OSS Contributions"]
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,react,nodejs,jquery&theme=dark&perline=8" alt="Frameworks"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-1B1B1F?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo_Router-4630EB?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS_%26_Android-0A66C2?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ### 🗄️ Infrastructure & DevOps
