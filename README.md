@@ -68,7 +68,7 @@ open_to       : ["Collaboration", "Mobile & Full-Stack Projects", "Automation Co
 ### 🧩 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,nodejs,jquery&theme=dark&perline=8" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,go,php,django,react,nodejs,jquery&theme=dark&perline=8" alt="Languages & Frameworks"/>
 </p>
 
 ### 📱 Mobile Development
